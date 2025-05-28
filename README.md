@@ -1,5 +1,6 @@
-# gamified-job-portal
+
 # Gamified Job Portal
+*** ( Read Important Notice written at last of this file  with unvisible comments )
 
 A web-based job portal that integrates gamification elements like badges, levels, and rewards to enhance user engagement and improve the job-seeking experience.
 
@@ -68,5 +69,27 @@ Alekhya Dama
 3rd Year B.Tech Cybersecurity Student
 Passionate about secure, intelligent web applications.
 
+```
+## ⚠️ Important Notes
+
+1.Due to GitHub's file size restrictions:
+- The `node_modules/` folder is **not included** in this repository.
+- The `.gitignore` file could not be uploaded at the time of commit but should include at least the following:
+
+```bash
+node_modules/
+.env
+.DS_Store
+*.log
+#####    Make sure to create this .gitignore file locally before installing dependencies.
+📦 Files Included
+2. pages/ and styles/ folders
+
+Main source code files
+
+package.json and package-lock.json
+
+These files are sufficient to install and run the project locally.
+```
 📄 License
 This project is licensed under the MIT License.
